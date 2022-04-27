@@ -1,9 +1,4 @@
-from collections import deque
+a = 'abc'
+b = 'ab'
 
-first = [0]*4
-q = deque([0,first])
-
-
-print(q)
-print(q[0])
-print(q[1])
+print(a+b)
